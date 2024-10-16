@@ -74,7 +74,9 @@ const buildSalesAnalytics = (element) => {
 
     const itemHtml = `
       <div class="icon">
-        <span class="material-icons-sharp"> ${analytic.icon} </span>
+        <div class="profile-photo">
+          <img src="${analytic.icon}" />
+        </div>
       </div>
       <div class="right">
         <div class="info">
