@@ -1,15 +1,15 @@
 // Executes when document is loaded
 document.addEventListener("DOMContentLoaded", (ev) => {
   // Recent Orders Data
-  document.getElementById("recent-orders--table").appendChild(buildTableBody());
+  document.getElementById("holding--table").appendChild(buildTableBody());
 
   // Updates Data
   document
-    .getElementsByClassName("recent-updates")
+    .getElementsByClassName("square")
     .item(0)
     .appendChild(buildUpdatesList());
 
-  // Sales Analytics
+  // Coin Markets
   const salesAnalytics = document.getElementById("analytics");
   buildSalesAnalytics(salesAnalytics);
 });
