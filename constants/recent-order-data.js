@@ -1,0 +1,51 @@
+const RECENT_ORDER_DATA = [
+  {
+    coin: "BTC",
+    total: "85631",
+    price: "$67,387.97",
+    growth: "Pending",
+    growthColor: "warning",
+  },
+  {
+    coin: "BNB",
+    total: "36378",
+    price: "$594.50",
+    growth: "Declined",
+    growthColor: "danger",
+  },
+  {
+    coin: "ETH",
+    total: "49347",
+    price: "$2,618.68",
+    growth: "Pending",
+    growthColor: "warning",
+  },
+  {
+    coin: "NEIRO",
+    total: "96996",
+    price: "$0.00193949",
+    growth: "Delivered",
+    growthColor: "primary",
+  },
+  {
+    coin: "DOGE",
+    total: "22821",
+    price: "$0.12688",
+    growth: "Delivered",
+    growthColor: "primary",
+  },
+  {
+    coin: "SOL",
+    total: "81475",
+    price: "$155.26",
+    growth: "Pending",
+    growthColor: "warning",
+  },
+  {
+    coin: "SHIB",
+    total: "00482",
+    price: "$0.00001894",
+    growth: "Delivered",
+    growthColor: "primary",
+  },
+];
