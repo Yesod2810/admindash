@@ -2,19 +2,19 @@ const UPDATE_DATA = [
   {
     imgSrc: "./images/profile-2.jpg",
     profileName: "Mike Tyson",
-    message: "received his order of Night lion tech GPS drone.",
+    message: "Co-Founder & Chief Customer Service Officer",
     updatedTime: "2 Minutes Ago",
   },
   {
     imgSrc: "./images/profile-3.jpg",
     profileName: "Diana Ayi",
-    message: "declined her order of 2 DJI Air 2S.",
+    message: "Alpha Droper|| #KOL|| Trader since 2021|| holder",
     updatedTime: "5 Minutes Ago",
   },
   {
     imgSrc: "./images/profile-4.jpg",
     profileName: "Mandy Roy",
-    message: "received his order of LARVENDER KF102 Drone.",
+    message: "I am trading solely on",
     updatedTime: "6 Minutes Ago",
   },
 ];

@@ -78,11 +78,11 @@ const buildSalesAnalytics = (element) => {
       </div>
       <div class="right">
         <div class="info">
-          <h3>${analytic.title}</h3>
+          <h3>${analytic.name}</h3>
           <small class="text-muted"> Last 24 Hours </small>
         </div>
         <h5 class="${analytic.colorClass}">${analytic.percentage}%</h5>
-        <h3>${analytic.sales}</h3>
+        <h3>${analytic.price}</h3>
       </div>
     `;
 
